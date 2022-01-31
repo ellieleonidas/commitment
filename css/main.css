@@ -23,6 +23,16 @@ h1{
   font-family: "Amatic SC";
   font-size: 60px;
 }
+#song2{
+  /* background-color: white; */
+  color: white;
+  width: 30%;
+  height: 2em;
+  display: flex;
+  margin-left: 80px;
+  font-family: "Amatic SC";
+  font-size: 60px;
+}
 
 #pictures{
   /* margin-bottom: 50px; */
