@@ -85,7 +85,7 @@ align-items: center;
   transform: translateY(-50%);
   z-index: 1;
   animation: dd2 10s 2;
-  animation-delay: 4s;
+  animation-delay: 4s, 10s;
 }
 .d3 {
   position: absolute;
@@ -103,7 +103,7 @@ align-items: center;
   transform: translateY(-50%);
   z-index: 3;
   animation: dd3 10s 2;
-  animation-delay: 4s;
+  animation-delay: 4s, 10s;
 }
 .d4 {
   position: absolute;
@@ -120,7 +120,7 @@ align-items: center;
   transform: translateY(-50%);
   z-index: 1;
   animation: dd4 10s 2;
-  animation-delay: 4s;
+  animation-delay: 4s, 10s;
 }
 
 @keyframes dd1 {
