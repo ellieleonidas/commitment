@@ -21,17 +21,17 @@ h1{
   display: flex;
   margin-left: 30px;
   font-family: "Amatic SC";
-  font-size: 60px;
+  font-size: 40px;
 }
 #song2{
-  /* background-color: white; */
+  background-color: white;
   color: white;
   width: 30%;
   height: 2em;
   display: flex;
-  margin-left: 80px;
+  margin-left: 600px;
   font-family: "Amatic SC";
-  font-size: 60px;
+  font-size: 40px;
 }
 
 #pictures{
