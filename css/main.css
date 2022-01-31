@@ -1,7 +1,11 @@
 body{
   background-color: black;
 }
-
+#line1{
+  color: white;
+  margin-left: 30px;
+  margin-top: 1000px;
+}
 
 {
   margin: 0;
