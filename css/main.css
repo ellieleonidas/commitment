@@ -11,13 +11,13 @@ h1{
   border: 3px dotted white;
   padding: 10px;
   text-align: center;
+  animation: color-change 1s infinite;
 }
-@keyframes h1{
-  0% {
-  }
-  50% {
-    background-position: Calc(0vw - 40px) 50%;
-  }
+
+@keyframes color-change {
+  0% { color: red; }
+  50% { color: blue; }
+  100% { color: red; }
 }
 
 
