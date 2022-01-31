@@ -12,6 +12,14 @@ h1{
   padding: 10px;
   text-align: center;
 }
+@keyframes h1{
+  0% {
+  }
+  50% {
+    background-position: Calc(0vw - 40px) 50%;
+  }
+}
+
 
 #mainflex{
   display: flex;
