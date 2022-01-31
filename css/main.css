@@ -27,15 +27,16 @@ p{
 }
 
 #lyric1{
-margin-left: 30px;
+margin-left: 80px;
+align-items: center;
 }
 
 #lyric2{
-  margin-left: 500px;
+  margin-left: 550px;
 }
 
 #lyric3{
-  margin-left: 130px;
+  margin-left: 970px;
 }
 
 #pictures{
