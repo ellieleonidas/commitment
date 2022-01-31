@@ -16,9 +16,7 @@ h1{
 
 @keyframes color-change {
   0% { color: yellow; }
-  33% { color: white; }
-  66% { color: blue; }
-  100% { color: green; }
+  100% { color: white; }
 }
 
 
