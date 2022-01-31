@@ -1,19 +1,4 @@
-/* body {
- background-image: url("https://www.gannett-cdn.com/media/2019/02/18/USATODAY/USATODAY/636860806196959095-maverick.wave.003.jpg?width=2160");
-}
 
-img {
-    position: absolute;
-    left: -100%;
-    margin: 7em -244px;
-    animation: slide 4s infinite;
-}
-@keyframes slide {
-    0% { left: -150%; }
-    35% { left: 50%; }
-    65% { left: 50%; }
-    100% { left: 150%; }
-} */
 {
   margin: 0;
   padding: 0;
