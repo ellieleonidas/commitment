@@ -15,13 +15,16 @@ h1{
 
 #mainone{
   background-color: yellow;
+  display: flex;
   align-items: stretch;
+  align-items: stretch;
+
 }
 
 #song1{
   /* background-color: white; */
   color: white;
-  width: 30%;
+  align-items: stretch;
   height: 2em;
   display: flex;
   margin-left: 30px;
