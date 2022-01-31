@@ -4,7 +4,7 @@ body{
 
 h1{
   color: white;
-  font-family: "great vibes";
+  font-family: "Amatic SC";
   font-size: 60px;
   margin: auto;
   width: 50%;
@@ -20,6 +20,7 @@ h1{
   height: 2em;
   display: flex;
   margin-left: 30px;
+  font-family: "Amatic SC";
 }
 
 #pictures{
