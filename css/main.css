@@ -1,6 +1,10 @@
 body{
   background-color: black;
 }
+
+h1{
+  color: white;
+}
 #song1{
   /* background-color: white; */
   color: yellow;
